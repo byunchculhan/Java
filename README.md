@@ -517,17 +517,6 @@
 * 함수적 인터페이스:@FunctionInterface
   * 추상 메소드가 2개 이상 되면 컴파일 오류 발생
 
-# 함수적 인터페이스
-
-Java.util.function 패키지의 함수적 언터페이스 (5가지 종류)
-
-* Consumer: In only
-  * Cosumer <T>
-* Supplier: Out only
-* Function: In/Out Both, Mapping 용도
-* Operator: in/Out Both, 연산 용도
-* Preddicate: in/Out(Boolean) Both
-
 
 
 
